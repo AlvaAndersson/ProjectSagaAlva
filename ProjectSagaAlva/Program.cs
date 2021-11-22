@@ -11,7 +11,7 @@ namespace ProjectSagaAlva
 
             string[] Lista = new string[antalLåtar];
 
-            Console.WriteLine($"Välkommen till musiktoppistan! Skirv in {antalLåtar} låtar.");
+            Console.WriteLine($"Välkommen till musiktoppistan! Skirv in {antalLåtar} låtar .");
             string menyVal = " ";
 
             while(menyVal != "4")
